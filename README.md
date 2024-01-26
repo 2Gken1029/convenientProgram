@@ -12,3 +12,10 @@
   任意の場所に当該ファイルを配置して`.zshrc`でaliasコマンドを設定
   
   例：`alias ssh='~/.ssh/iterms-ssh-change-color.sh'`
+
+#### 背景色変更シェル（ssh-change-color.sh）
+- ssh接続した際のターミナルの背景色を変更する
+
+  任意の場所に当該ファイルを配置して`.zshrc`でaliasコマンドを設定
+  
+  例：`alias ssh='~/.ssh/ssh-change-color.sh'`
